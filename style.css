@@ -9,3 +9,9 @@
 .fa-star.filled {
     color: #FFC014
 }
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    filter: invert(1);
+    float: left;
+}
