@@ -1,0 +1,6 @@
+.overlay {
+    opacity: 70%;
+    background: rgba(50, 70, 80, 0.7);
+    overflow: hidden;
+    height: 100%;
+}
